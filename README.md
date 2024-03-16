@@ -1,2 +1,2 @@
-
+WE WILL BE ABLE TO RUN THIS CODE IN ANACONDA NAVIGATOR USING JUPYTER LAB
 YOU HAVE TO DOWNLOAD THIS DATA SET : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
